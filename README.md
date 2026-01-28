@@ -3,4 +3,4 @@
 To Analyze supply chain data to identify sales patterns, inventory and operational inefficiencies to deliver actionable insights through dashboard and reports for improved 
 decision-making
 ## Dataset used
--<a herf ="https://drive.google.com/drive/folders/1VTTsM9XFg5IX_5sHAzj-oRErIZ50KK_W?usp=drive_link">Dataset</a>
+-<a herf ="https://docs.google.com/spreadsheets/d/1-J-vwzvMtVT-xPHA_UluQZHFh_t1sjOK/edit?usp=drive_link&ouid=100955775287878608170&rtpof=true&sd=true">Dataset</a>
